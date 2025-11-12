@@ -7,8 +7,11 @@ def square_root(a):
 
 def hypotenuse(a,b):
     return math.hypot(a,b)
-
-
+def div(a, b):
+    if a == 0:
+        raise ZeroDivisionError
+    else:
+        return b / a
 def add(a, b):
     return a + b
 
