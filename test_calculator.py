@@ -1,3 +1,6 @@
+# https://github.com/zayed61/ZAYED-AND-AKSHAY-LAB-11
+# Partner 1: Zayed AlGhfeli
+# Partner 2: Akshay Bekkary
 import unittest
 from calculator import *
 
